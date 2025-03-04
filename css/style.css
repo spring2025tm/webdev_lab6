@@ -121,3 +121,7 @@ strong {
   font-size: 48px;
 }
 
+.no-border {
+  border: none;
+}
+
